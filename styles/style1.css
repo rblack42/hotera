@@ -1,0 +1,189 @@
+﻿@import url("layout.css");
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	background-image: url('../RESOURCES/images/GIF/D-Star%20Background.gif');
+	background-repeat: repeat;
+	background-attachment: scroll;
+}
+#container {
+	width: 950px;
+	margin: 0 auto;
+	padding: 10px;
+	border-right: 12px solid #000000;
+	border-bottom: 12px solid #000000;
+	border-left: 12px solid #000000;
+	border-top: 12px solid #000000;
+	background-color: #BDEDA9;
+}
+#masthead {
+	padding: 10px;
+}
+#navigation {
+	position: relative;
+	float: left;
+	width: 139px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-right: 1px dotted #000000;
+}
+#content {
+	background: #FFFFFF;
+	float: left;
+	width: 775px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding: 10px;
+}
+#footer {
+	text-align: center;
+	clear: both;
+	width: 950px;
+	border: 1px dotted #000000;
+}
+/* Masthead Styles */
+#masthead h1 {
+	color: #f64410;
+}
+#masthead h3 {
+	color: #ff26ff;
+}
+/* Navigation Styles */
+#navigation ul {
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#navigation li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 1px dotted #000000;
+	background-color: #000000;
+}
+#navigation a {
+	color: white;
+	text-decoration: none;
+	display: block;
+	padding: 5px;
+	border-bottom: 1px dotted #ffffff;
+	background-color: #000000;
+}
+#navigation a:hover {
+	color: black;
+	text-decoration: none;
+	background-color: #ff9900;
+}
+
+#navigation2 ul {
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#navigation2 li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 1px dotted #cfc;
+	background-color: #cfc;
+}
+#navigation2 a {
+	color: #cfc;
+	text-decoration: none;
+	display: block;
+	padding: 5px;
+	border-bottom: 1px dotted #cfc;
+	background-color: #cfc;
+}
+#navigation2 a:hover {
+	color: #cfc;
+	text-decoration: none;
+	background-color: blue;
+}	
+
+#navigation3 ul {
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#navigation3 li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 1px dotted #000000;
+	background-color: #000000;
+}
+#navigation3 a {
+	color: white;
+	text-decoration: none;
+	display: block;
+	padding: 5px;
+	border-bottom: 1px dotted #ffffff;
+	background-color: #000000;
+}
+#navigation3 a:hover {
+	color: black;
+	text-decoration: none;
+	background-color: red;
+}	
+
+
+
+/* Content Styles */
+h6 {
+	color: #503750;
+}
+h5 {
+	color: #503750;
+}
+h4 {
+	color: #503750;
+}
+h3 {
+	color: #503750;
+}
+h2 {
+	color: red;
+}
+#content h1 {
+	color: #503750;
+}
+#content img {
+	padding: 5px;
+	border: 1px solid white;
+}
+/* Footer Styles */
+#footer p {
+	color: #808080;
+}
+#footer a {
+	color: red;
+	text-decoration: underline;
+	
+}
+#footer a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+a {
+	color: #402640;
+	text-decoration: underline;
+}
+a:hover {
+	color: red;
+	text-decoration: underline;
+}
+.style_bold {
+	font-weight: bold;
+}
+.style_italic {
+	font-style: italic;
+}
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>HOTERA</title>
+<link>http://hotera.org/blog.html</link>
+<description>HOTERA Blog page</description>
+<language>en-US</language>
+<copyright>Copyright 2010</copyright>
+<lastBuildDate>Mon, 23 Aug 2010 12:40:31 -0500</lastBuildDate>
+<pubDate>Mon, 23 Aug 2010 12:40:31 -0500</pubDate>
+<generator>http://thingamablog.sf.net</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+<item>
+<title>First Blog</title>
+<description>
+&lt;p&gt; This is the first entry in the Blog area. We are excited about
+keeping you the readers informed about D-STAR....&lt;/p&gt;
+</description>
+<link>http://hotera.org/archives/08-01-2010_08-31-2010.html#0</link>
+<guid>http://hotera.org/archives/08-01-2010_08-31-2010.html#0</guid>
+
+<category></category>
+
+<pubDate>Sat, 21 Aug 2010 16:08:11 -0500</pubDate>
+</item>
+
+</channel>
+</rss>
